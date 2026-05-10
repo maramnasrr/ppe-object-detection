@@ -2,14 +2,14 @@
 
 ---
 
-# 👥 Auteurs
+# Auteurs
 
 - Maram NASR
 - Skander HAJ MABROUK
 
 ---
 
-# 📌 Objectif du projet
+# Objectif du projet
 
 L’objectif de ce projet est de développer un système de **détection d’objets** capable de reconnaître automatiquement plusieurs équipements de protection individuelle (EPI) dans des images industrielles.
 
